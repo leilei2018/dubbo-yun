@@ -1,0 +1,3 @@
+dubbo\user\service\impl\login\UserLoginLoginImpl.class
+dubbo\user\main\UserMain.class
+dubbo\user\config\UserConfig.class
