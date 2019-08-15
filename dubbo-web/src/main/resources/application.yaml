@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: dubbo-web
+dubbo:
+  enabled: true
+  application:
+    name: dubbo-web
+  registry:
+    address: zookeeper://192.168.21.128:2181
+  protocol:
+    name: dubbo
+    port: 20880
+
+
+
+
+
+
+
